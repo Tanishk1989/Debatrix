@@ -1,0 +1,18 @@
+node_modules
+dist
+.env
+*.log
+
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Backend
+backend/node_modules
+backend/dist
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
